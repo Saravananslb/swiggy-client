@@ -1,0 +1,40 @@
+.wY0my {
+    background-color: #48c479;
+    color: #fff;
+}
+
+._9uwBC {
+    height: 20px;
+    width: 43px;
+    padding: 0 5px;
+    font-weight: 400;
+}
+
+.icon-star:before {
+    content: "\E938";
+}
+
+._537e4 {
+    font-size: 10px;
+    margin-right: 4px;
+    position: relative;
+    top: -1px;
+}
+
+[class*=" icon-"], [class^=icon-] {
+    font-family: icomoon;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.food-card-text-dark {
+    color: #686b78;
+    font-size: 13px;
+    margin-top: 4px;
+}

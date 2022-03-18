@@ -1,0 +1,20 @@
+.location-res {
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    letter-spacing: 0;
+    cursor: pointer;
+}
+
+.header-menu div div span {
+    padding-left: 10px;
+    color: #3d4152;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.navbar-expand-lg {
+    padding-top: 20px;
+}
+
+.header-menu div {
+    cursor: pointer;
+}

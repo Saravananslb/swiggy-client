@@ -1,0 +1,10 @@
+.signin-text {
+    font-weight: 500;
+    cursor: pointer;
+    color: #fc8019;
+}
+
+.privacy-text {
+    font-weight: 500;
+    padding: 10px;
+}
